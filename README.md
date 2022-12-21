@@ -1,2 +1,2 @@
-# sentiment-classification-of-movie-reviews
-Developed NLP model to classify sentiment behind reviews given to movies as either positive or negative with deployment using flask 
+# SENTIMENT CLASSIFICATION OF MOVIE REVIEW DATASET
+In this project, I used Natural Language Processing (NLP) and supervised machine learning (Naive Bayes) algorithms to build application for classification of sentiment behind movie review as either positive or negative. The app is deployed using the python flask framework.
